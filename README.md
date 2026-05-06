@@ -1,1 +1,1 @@
-# for-you-institute
+# foryou-institute
